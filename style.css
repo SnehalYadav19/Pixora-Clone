@@ -99,19 +99,21 @@
             height: 10px;
             width: 25px;
             position: absolute;
-            top: 54px;
+            top: 230px;
             left: 35px;
             width: auto;
+            opacity: .5;
         }
 
         .txt2 {
             color: azure;
             position: absolute;
-            top: 225px;
+            top: 250px;
             left: 31px;
             width: auto;
         font-family: "Anton", sans-serif;
-    font-size: 70px;
+    font-size: 55px;
+    
     line-height: 0.9;
     text-transform: uppercase;
 
