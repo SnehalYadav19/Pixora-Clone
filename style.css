@@ -121,7 +121,13 @@ P {
 
 }
 
+<<<<<<< Updated upstream
 .pics{
     height: 40px;
     width: 40px;
+=======
+.img3{
+    height: 40px;
+    width: 40px; 
+>>>>>>> Stashed changes
 } 
