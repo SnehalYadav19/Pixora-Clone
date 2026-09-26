@@ -72,6 +72,9 @@ h5 {
 
 .front-face .chip {
     width: 50px;
+    position: relative;
+    top: 15px;
+    left: 173px;
 }
 
 
